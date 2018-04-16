@@ -1,3 +1,3 @@
-# tomcat
-
-一个基于java 实现的基本tomcat，了解toncat的实现原理
+用java实现的一个基本的tomcat 
+主要是用来了解tomcat的实现原理，request和response到底是什么 
+您们可以先看看TomcatTest1.java文件，了解基本原理 再看看TomcatTest2.java文件，优化过后的实现原理跟tomcat的基本思想一致
